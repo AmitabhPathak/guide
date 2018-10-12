@@ -58,8 +58,11 @@ Since the early days of the web, there have been many versions of HTML
 |XHTML|2000|
 |HTML5|2014|
 
-#### Other Resources
 
+#### Books and other Resources
 - [HTML Elements](https://guide.freecodecamp.org/html/elements)
 - [Semantic HTML](https://guide.freecodecamp.org/html/html5-semantic-elements)
 - [HTML Attributes](https://guide.freecodecamp.org/html/attributes)
+- [HTML & CSS: Design and Build Web Sites(book)]
+- [Head First HTML with CSS & XHTML(book)]
+- [HTML & CSS: The Complete Reference(book)]
